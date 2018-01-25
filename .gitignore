@@ -6,6 +6,8 @@
 *.run.xml
 *.synctex.gz
 *.pdf
+*.ps
+*.dvi
 *.txss
 *(busy)
 *.fls

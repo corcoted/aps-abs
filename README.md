@@ -6,6 +6,8 @@ The original author is Scott Beckman spbeckman@gmail.com in 2008, but I got it s
 
 There was no license included with the original file.
 
+Ted Corcovilos, 2018.01.25
+
 ## Instructions
 *From the source file*
 

@@ -2,9 +2,13 @@
 
 LaTeX template for American Physical Society meeting abstracts
 
-The original author is Scott Beckman spbeckman@gmail.com , but I got it second-hand some time ago.  It seems to still be valid.  I'm adding it to GitHub so that other may easily find it.
+The original author is Scott Beckman spbeckman@gmail.com in 2008, but I got it second-hand some time ago.  It seems to still be valid.  I'm adding it to GitHub so that others may easily find it.
 
-## Instructions (copied from the source file)
+There was no license included with the original file.
+
+## Instructions
+*From the source file*
+
 Note that the actual abstract submission process must now be done
 by filling out a web form at
  
@@ -38,4 +42,3 @@ character.
 
 Direct inqueries about this example file to Scott Beckman 
 spbeckman@gmail.com
-

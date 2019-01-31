@@ -14,7 +14,7 @@ Ted Corcovilos, 2018.01.25
 Note that the actual abstract submission process must now be done
 by filling out a web form at
  
-> http://abs.aps.org/
+> http://abstracts.aps.org/
  
 However, it is recommended to prepare your abstract using this
 template, so that all co-authors can agree on all the details.
